@@ -1,7 +1,26 @@
-	DP	CICIL	
-Fortuner	155JT	11Jutaan	 653.200.000 
-Zenix G HEV	115JT	8Jutaan	 476.600.000 
-Reborn	101JT	7jutaan	 420.300.000 
-Rush	96JT	4Jutaan	 295.800.000 
-Avanza	59JT	4Jutaan	 246.700.000 
-Calya	49JT	3Jutaan	 181.900.000 
+<style type="text/css">
+	table.tableizer-table {
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+</style>
+<table class="tableizer-table">
+<thead><tr class="tableizer-firstrow"><th></th><th>DP</th><th>CICIL</th><th>otr</th><th>dp 20 bcaf</th><th>&nbsp;</th><th>disk</th><th>db bayar</th></tr></thead><tbody>
+ <tr><td>Fortuner</td><td>155JT</td><td>11Jutaan</td><td> 653.200.000 </td><td> 182.428.000 </td><td> 11.945.000 </td><td> 25.000.000 </td><td> 157.428.000 </td></tr>
+ <tr><td>Zenix G HEV</td><td>115JT</td><td>8Jutaan</td><td> 476.600.000 </td><td> 135.330.000 </td><td> 8.716.000 </td><td> 20.000.000 </td><td> 115.330.000 </td></tr>
+ <tr><td>Reborn</td><td>101JT</td><td>7jutaan</td><td> 420.300.000 </td><td> 121.653.000 </td><td> 7.686.000 </td><td> 20.000.000 </td><td> 101.653.000 </td></tr>
+ <tr><td>Rush</td><td>68JT</td><td>4Jutaan</td><td> 295.800.000 </td><td> 90.063.000 </td><td> 5.410.000 </td><td> 22.000.000 </td><td> 68.063.000 </td></tr>
+ <tr><td>Avanza</td><td>59JT</td><td>4Jutaan</td><td> 246.700.000 </td><td> 76.363.000 </td><td> 4.512.000 </td><td> 17.000.000 </td><td> 59.363.000 </td></tr>
+ <tr><td>Calya</td><td>49JT</td><td>3Jutaan</td><td> 181.900.000 </td><td> 59.099.000 </td><td> 3.327.000 </td><td> 10.000.000 </td><td> 49.099.000 </td></tr>
+</tbody></table>
