@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <!-- Preconnect -->
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+
+    <!-- Google Tag Manager -->
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    (function(w,d,s,l,i){
+      w[l].push({'gtm.start': Date.now(),event:'gtm.js'});
+      var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),
+          dl=l!='dataLayer'?'&l='+l:'';
+      j.async=true;
+      j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+      f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T5GRM6WQ');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <!-- SEO META TAGS CALYA -->
+    <title>Harga Toyota Calya Bandung - Promo Kredit DP 20 Jutaan</title>
+    <meta name="description" content="Cek Harga & Promo Toyota Calya Bandung. Kredit DP mulai 20 Jutaan, Cicilan 3 Jutaan. Dealer Resmi Plaza Toyota, Ready Stock 7 Seater. Hubungi Harri Gunawan!">
+    <meta name="keywords" content="harga calya, promo calya, kredit calya, calya bandung, calya 7 seater, toyota bandung">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Harri Gunawan - Plaza Toyota Bandung">
+    <link rel="canonical" href="https://bandungtoyotacenter.com/calya">
+    
+    <!-- OPEN GRAPH -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Harga Toyota Calya Bandung - Promo Kredit DP 20 Jutaan">
+    <meta property="og:description" content="Cek Harga & Promo Toyota Calya Bandung. Kredit DP mulai 20 Jutaan, Cicilan Ringan. Dealer Resmi Plaza Toyota.">
+    <meta property="og:image" content="/asset/images/calya/CALYA-2026.webp">
+    <meta property="og:url" content="https://bandungtoyotacenter.com/calya">
+    <meta name="theme-color" content="#EB0A1E">
+
+    <!-- PRECONNECT -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="preconnect" href="https://bandungtoyotacenter.com">
+    <link rel="preconnect" href="https://img.youtube.com">
+
+    <!-- FONTS & ICONS -->
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap"></noscript>
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css"></noscript>
+
+    <!-- SCHEMA MARKUP JSON-LD CALYA -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Car",
+          "name": "Toyota Calya",
+          "image": "/asset/images/calya/CALYA-2026.webp",
+          "description": "Toyota Calya 1.2 G, mobil keluarga 7 penumpang dengan harga terjangkau.",
+          "brand": { "@type": "Brand", "name": "Toyota" },
+          "model": "Calya",
+          "vehicleConfiguration": "1.2L Engine",
+          "offers": {
+            "@type": "Offer",
+            "price": "173200000",
+            "priceCurrency": "IDR",
+            "availability": "https://schema.org/InStock",
+            "seller": { "@type": "AutomotiveBusiness", "name": "Plaza Toyota Bandung" }
+          }
+        },
+        {
+          "@type": "LocalBusiness",
+          "@id": "https://bandungtoyotacenter.com/#localbusiness",
+          "name": "Plaza Toyota Bandung - Harri Gunawan",
+          "telephone": "+6282316092405",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Jl. Pelajar Pejuang 45 No.131",
+            "addressLocality": "Bandung",
+            "addressRegion": "Jawa Barat",
+            "postalCode": "40263",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- CRITICAL CSS INLINE -->
+    <style>
+        :root { --toyota-red: #EB0A1E; --toyota-dark: #1a1a1a; --toyota-gray: #f8f8f8; --text-color: #333; --white: #ffffff; --shadow: 0 4px 6px -1px rgba(0,0,0,0.1); --header-h: 70px; --bottom-nav-h: 65px; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; font-size: 16px; }
+        body { font-family: 'Roboto', sans-serif; color: var(--text-color); line-height: 1.6; background: #fff; padding-bottom: var(--bottom-nav-h); }
+        @media(min-width:768px) { body { padding-bottom: 0; } }
+        a { text-decoration: none; color: inherit; }
+        img { max-width: 100%; height: auto; display: block; }
+        ul { list-style: none; }
+        .container { max-width: 1100px; margin: 0 auto; padding: 0 15px; }
+        
+        /* SECTION TITLE */
+        .section-title { font-size: 1.4rem; font-weight: 900; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 15px; color: var(--toyota-red); text-align: center; }
+        
+        /* BUTTONS */
+        .btn { display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 12px 20px; border-radius: 4px; font-weight: 700; text-transform: uppercase; font-size:0.9rem; cursor: pointer; border: none; transition: 0.2s; width: 100%; }
+        .btn:active { transform: scale(0.98); }
+        .btn-blue { background: #0056b3; color: white; }
+        .btn-green { background: #25D366; color: white; }
+        .btn-red { background: var(--toyota-red); color: white; }
+
+        /* BREADCRUMB */
+        .breadcrumb { margin-top: var(--header-h); background: #f9f9f9; padding: 10px 0; font-size: 0.8rem; color: #666; border-bottom: 1px solid #eee; position: relative; z-index: 1; }
+        .breadcrumb-inner { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
+        .breadcrumb a { color: #555; }
+        .breadcrumb a:hover { color: var(--toyota-red); }
+        .breadcrumb span { color: #999; }
+
+        /* HEADER */
+        .header { position: fixed; top: 0; left: 0; width: 100%; height: var(--header-h); background: #fff; box-shadow: var(--shadow); z-index: 1000; display: flex; align-items: center; }
+        .header-inner { display: grid; grid-template-columns: 40% 25% 25% 10%; align-items: center; justify-items: center; width: 100%; max-width: 1100px; margin: 0 auto; padding: 0 15px; height: 100%; }
+        .header-link-box { display: flex; flex-direction: column; align-items: center; justify-content: center; text-decoration: none; color: var(--toyota-dark); cursor: pointer; position: relative; width: 100%; height: 100%; }
+        .header-link-box:hover { color: var(--toyota-red); }
+        .header-col-1 img { height: 32px; width: auto; object-fit: contain; max-width: 100%; }
+        .icon-circle { width: 32px; height: 32px; border-radius: 50%; background-color: var(--toyota-gray); display: flex; align-items: center; justify-content: center; margin-bottom: 2px; font-size: 1.2rem; transition: all 0.3s ease; }
+        .link-text { font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; }
+        .header-col-2 .icon-circle { color: #25D366; background-color: transparent; font-size: 1.6rem; }
+        .header-col-3 .icon-circle { background-color: #25D366; color: white; font-size: 1.6rem; }
+        
+        /* DROPDOWN MODEL HEADER */
+        .dropdown-model-content { display: none; position: absolute; top: 100%; right: 0; background: white; box-shadow: 0 8px 16px rgba(0,0,0,0.15); border-radius: 4px; width: 180px; z-index: 1002; overflow: hidden; border: 1px solid #eee; }
+        .dropdown-model-content.show { display: block; }
+        .dropdown-model-item { display: block; padding: 10px 15px; font-size: 0.9rem; color: var(--toyota-dark); border-bottom: 1px solid #f5f5f5; cursor: pointer; text-align: left; }
+        .dropdown-model-item:hover { background-color: var(--toyota-gray); color: var(--toyota-red); }
+        
+        @media (min-width: 769px) { .header-col-2 .icon-circle, .header-col-3 .icon-circle { width: 44px; height: 44px; font-size: 1.8rem; } }
+        @media (max-width: 768px) { .header-inner { gap: 0; padding: 0 5px; } .header-col-4 .link-text { display: none; } .header-col-4 .icon-circle { background: transparent; color: var(--toyota-dark); font-size: 1.5rem; width: auto; height: auto; } .link-text { font-size: 0.5rem; } .header-col-2 .icon-circle, .header-col-3 .icon-circle { width: 36px; height: 36px; font-size: 1.5rem; } .icon-circle { width: 24px; height: 24px; font-size: 1rem; } }
+        
+        /* HERO PROMO */
+        .hero-promo { background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 100%); padding: 30px 0; color: white; position: relative; overflow: hidden; min-height: 400px; display: flex; align-items: center; justify-content: center; }
+        .hero-bg-img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 0.25; z-index: 1; pointer-events: none; }
+        .hero-content { position: relative; z-index: 2; text-align: center; width: 100%; }
+        .urgency-badge { display: inline-block; background: #ffeb3b; color: #d32f2f; padding: 5px 15px; border-radius: 4px; font-size: 0.8rem; font-weight: 800; margin-bottom: 10px; text-transform: uppercase; animation: pulse 2s infinite; }
+        @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
+        .hero-title { font-size: 2rem; font-weight: 900; line-height: 1.1; margin-bottom: 8px; color: white; }
+        .hero-sub { font-size: 1rem; font-weight: 400; opacity: 0.9; margin-bottom: 15px; font-style: italic; }
+        
+        /* PROMO GRID */
+        .promo-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 400px; margin: 0 auto 20px; text-align: left; }
+        .promo-item { background: rgba(255,255,255,0.1); padding: 10px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.2); min-height: 65px; display: flex; flex-direction: column; justify-content: center; }
+        .promo-label { font-size: 0.75rem; opacity: 0.8; display: block; }
+        .promo-value { font-size: 1.1rem; font-weight: 900; color: #fff; }
+
+        /* SECTIONS */
+        .section { padding: 25px 0; }
+        .bg-gray { background: var(--toyota-gray); }
+        
+        /* SALES CARD */
+        .sales-card { background: white; border-radius: 10px; overflow: hidden; box-shadow: var(--shadow); display: flex; flex-direction: column; max-width: 400px; margin: 0 auto; border: 1px solid #eee; }
+        .sales-header { background: var(--toyota-red); color: white; padding: 15px; text-align: center; }
+        .sales-title { font-weight: 700; font-size: 1.1rem; }
+        .sales-body { padding: 20px; text-align: center; }
+        .sales-avatar { width: 90px; height: 90px; border-radius: 50%; object-fit: cover; margin: -50px auto 10px; border: 4px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        .sales-name { font-size: 1.2rem; font-weight: 800; color: var(--toyota-dark); }
+        .sales-role { font-size: 0.85rem; color: #666; margin-bottom: 15px; }
+        .sales-features { display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px; text-align: left; background: #f9f9f9; padding: 10px 15px; border-radius: 6px; border: 1px dashed #ddd; }
+        .feature-check { display: flex; align-items: center; gap: 8px; font-size: 0.8rem; color: #333; font-weight: 500; }
+        .feature-check i { color: #25D366; font-size: 1rem; flex-shrink: 0; }
+        .sales-contact { display: flex; gap: 10px; }
+
+        /* PRICE LIST TABLE */
+        .price-table { width: 100%; border-collapse: collapse; margin-bottom: 20px; font-size: 0.9rem; }
+        .price-table th { background: var(--toyota-red); color: white; padding: 10px; text-align: left; }
+        .price-table td { padding: 10px; border-bottom: 1px solid #eee; }
+        .price-table tr:nth-child(even) { background: #f9f9f9; }
+        .price-type { font-weight: 700; }
+        .price-val { font-weight: 700; color: var(--toyota-dark); text-align: right; }
+        .engine-badge { display: inline-block; padding: 4px 8px; background: #eee; border-radius: 4px; font-size: 0.8rem; margin-bottom: 5px; font-weight: 700; }
+        
+        /* SLIDERS */
+        .slider-container { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; gap: 10px; padding-bottom: 15px; scrollbar-width: none; }
+        .slider-container::-webkit-scrollbar { display: none; }
+        .slide-item { min-width: 260px; scroll-snap-align: start; border-radius: 8px; overflow: hidden; position: relative; background: #f0f0f0; }
+        .slide-item img { width: 100%; height: 160px; object-fit: cover; }
+        
+        /* COLOR SLIDER */
+        .color-item { text-align: center; min-width: 120px; }
+        .color-swatch { width: 60px; height: 60px; border-radius: 50%; margin: 0 auto 8px; border: 2px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .color-name { font-size: 0.8rem; font-weight: 700; color: var(--toyota-dark); }
+
+        /* FEATURES GRID */
+        .features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 15px; }
+        .feature-item { background: white; padding: 15px; border-radius: 8px; text-align: center; box-shadow: var(--shadow); border: 1px solid #eee; }
+        .feature-icon { font-size: 2rem; color: var(--toyota-red); margin-bottom: 8px; }
+        .feature-title { font-weight: 700; font-size: 0.9rem; margin-bottom: 5px; color: var(--toyota-dark); }
+        .feature-desc { font-size: 0.75rem; color: #666; }
+
+        /* SPECIFICATION TABLE */
+        .spec-table { width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 0.9rem; }
+        .spec-table tr { border-bottom: 1px solid #eee; }
+        .spec-table td { padding: 10px; vertical-align: top; }
+        .spec-label { font-weight: 700; width: 40%; color: var(--toyota-dark); }
+        .spec-value { color: #555; }
+
+        /* VIDEO OPTIMIZATION */
+        .video-wrapper { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: var(--shadow); margin-top: 10px; background: #000; }
+        .youtube-lazy { position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer; background-size: cover; background-position: center; }
+        .youtube-lazy::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.4); transition: background 0.3s; }
+        .youtube-lazy:hover::before { background: rgba(0,0,0,0.2); }
+        .play-button { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 68px; height: 48px; background-color: rgba(255,0,0,0.8); border-radius: 10px; display: flex; align-items: center; justify-content: center; }
+        .play-button::after { content: ''; border-style: solid; border-width: 10px 0 10px 20px; border-color: transparent transparent transparent #fff; margin-left: 5px; }
+
+        /* Testimoni & FAQ & Others */
+        .testi-grid { display: grid; gap: 15px; }
+        @media(min-width: 768px) { .testi-grid { grid-template-columns: repeat(3, 1fr); } }
+        .testi-card { background: white; padding: 20px; border-radius: 8px; box-shadow: var(--shadow); border-left: 5px solid var(--toyota-red); }
+        .testi-header { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+        .testi-avatar { width: 40px; height: 40px; background: #eee; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #555; }
+        .testi-info h4 { font-size: 0.9rem; font-weight: 800; }
+        .testi-info span { font-size: 0.75rem; color: #666; }
+        .testi-text { font-size: 0.9rem; font-style: italic; color: #444; line-height: 1.6; }
+        .testi-stars { color: #FFD700; font-size: 0.8rem; margin-top: 5px; }
+        .faq-item { background: white; margin-bottom: 10px; border-radius: 6px; overflow: hidden; border: 1px solid #eee; }
+        .faq-q { padding: 15px; font-weight: 700; cursor: pointer; display: flex; justify-content: space-between; align-items: center; color: var(--toyota-dark); }
+        .faq-q i { transition: 0.3s; }
+        .faq-a { padding: 0 15px; max-height: 0; overflow: hidden; transition: 0.3s; background: #fdfdfd; }
+        .faq-a p { padding-bottom: 15px; font-size: 0.9rem; color: #555; }
+        .faq-item.active .faq-a { max-height: 500px; border-top: 1px solid #eee; }
+        .faq-item.active .faq-q i { transform: rotate(180deg); }
+        .location-card { background: white; border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); }
+        .location-img { width: 100%; height: auto; object-fit: cover; display: block; }
+        .location-body { padding: 20px; }
+        .location-hours { display: inline-block; background: #e8f5e9; color: #2e7d32; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; font-weight: 700; margin-bottom: 10px; }
+        
+        /* OTHER MODELS */
+        .model-promo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 15px; }
+        .model-promo-card { background: #fff; border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); display: flex; flex-direction: column; border: 1px solid #eee; }
+        .model-promo-img { height: 110px; width: 100%; object-fit: contain; background-color: #f5f5f5; }
+        .model-promo-body { padding: 12px; flex: 1; display: flex; flex-direction: column; }
+        .model-promo-title { font-size: 0.95rem; font-weight: 700; margin-bottom: 2px; color: var(--toyota-dark); line-height: 1.2; text-transform: uppercase; }
+        .model-promo-price { font-size: 1rem; font-weight: 900; color: var(--toyota-red); margin-bottom: 8px; }
+        .model-promo-details { display: grid; grid-template-columns: 1fr 1fr; gap: 5px 8px; margin-bottom: 10px; list-style: none; padding: 0; border-bottom: 1px dashed #eee; padding-bottom: 8px; }
+        .model-promo-detail-item { display: flex; flex-direction: column; align-items: flex-start; }
+        .model-promo-label { font-size: 0.7rem; color: #666; font-weight: 400; margin-bottom: 1px; }
+        .model-promo-value { font-size: 0.8rem; font-weight: 700; color: var(--toyota-dark); }
+        footer { background: var(--toyota-dark); color: #fff; padding: 20px 0; text-align: center; font-size: 0.8rem; }
+        
+        /* FLOATING BOTTOM NAV & DROPDOWN */
+        .bottom-nav { display: none; position: fixed; bottom: 0; left: 0; width: 100%; height: var(--bottom-nav-h); background: #fff; box-shadow: 0 -2px 5px rgba(0,0,0,0.1); z-index: 1001; border-top: 1px solid #eee; }
+        .nav-grid { display: grid; grid-template-columns: repeat(4, 1fr); height: 100%; }
+        .nav-item { display: flex; flex-direction: column; justify-content: center; align-items: center; font-size: 0.7rem; color: #555; cursor: pointer; position: relative; }
+        .nav-item i { font-size: 1.3rem; margin-bottom: 2px; }
+        .nav-item:active { color: var(--toyota-red); background: #f5f5f5; }
+        
+        /* DROPDOWN SIMULASI */
+        .simulasi-dropdown { display: none; position: absolute; bottom: 100%; left: 0; width: 200px; background: white; box-shadow: 0 -4px 10px rgba(0,0,0,0.15); border-radius: 8px 8px 0 0; overflow: hidden; margin-bottom: 5px; border: 1px solid #eee; }
+        .simulasi-item { padding: 10px; font-size: 0.85rem; color: #333; border-bottom: 1px solid #eee; }
+        .simulasi-item:hover { background: #f5f5f5; color: var(--toyota-red); }
+        .simulasi-item:last-child { border-bottom: none; }
+
+        /* TOGGLE READ MORE STYLE - MOBILE MINIM SCROLL */
+        .toggle-content { 
+            max-height: 0; /* Hidden by default for minimum scroll */
+            overflow: hidden; 
+            transition: max-height 0.5s ease; 
+            margin-bottom: 5px; 
+        }
+        .seo-text { font-size: 0.95rem; color: #444; line-height: 1.7; margin-bottom: 10px; text-align: justify; }
+        .toggle-btn { display: inline-block; color: var(--toyota-red); font-weight: 700; cursor: pointer; font-size: 0.9rem; margin-bottom: 15px; border: 1px solid #eee; padding: 5px 10px; border-radius: 4px; }
+
+        /* RESPONSIVE MOBILE TWEAKS */
+        @media(max-width:768px) { 
+            .bottom-nav { display: block; } 
+            .hero-promo { min-height: 500px; padding: 20px 0; padding-top: 40px; }
+            .hero-title { font-size: 1.5rem; line-height: 1.2; }
+            .hero-sub { font-size: 0.95rem; margin-bottom: 10px; }
+            .hero-content p { font-size: 0.9rem; padding: 0 10px; }
+            .promo-grid { gap: 8px; padding: 0 5px; }
+            .promo-value { font-size: 1rem; }
+            .section-title { font-size: 1.2rem; padding: 0 5px; }
+            
+            /* Rapikan Table di HP */
+            .price-table { font-size: 0.85rem; }
+            .price-table th, .price-table td { padding: 8px 5px; }
+            .price-val { font-size: 0.8rem; }
+            
+            /* Rapikan Grid Card di HP */
+            .features-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+            .feature-title { font-size: 0.85rem; }
+            
+            /* Rapikan Slider */
+            .slide-item { min-width: 240px; }
+            .slide-item img { height: 140px; }
+            
+            /* Rapikan Spesifikasi */
+            .spec-table td { padding: 8px; font-size: 0.85rem; }
+            
+            /* Rapikan Other Models Grid */
+            .model-promo-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+            .model-promo-body { padding: 10px; }
+            .model-promo-title { font-size: 0.85rem; }
+            .model-promo-price { font-size: 0.9rem; }
+            .model-promo-img { height: 90px; }
+            
+            /* Footer & Button adjustments */
+            .btn { font-size: 0.85rem; padding: 10px 15px; }
+            footer { font-size: 0.75rem; padding: 15px 0; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5GRM6WQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <!-- HEADER -->
+    <header class="header">
+        <div class="header-inner">
+            <div class="header-col-1">
+                <a href="https://bandungtoyotacenter.com/" class="header-link-box">
+                    <img src="https://bandungtoyotacenter.com/wp-content/uploads/2026/02/LogoDark-scaled-2.webp" alt="Logo Toyota Bandung" fetchpriority="high" width="110" height="32">
+                </a>
+            </div>
+            <div class="header-col-2">
+                <a href="tel:082316092405" class="header-link-box">
+                    <div class="icon-circle"><i class="ri-phone-fill"></i></div>
+                    <span class="link-text">PANGGILAN</span>
+                </a>
+            </div>
+            <div class="header-col-3">
+                <a href="https://wa.me/6282316092405?text=Halo%20Pak%20Harri%2C%20saya%20tertarik%20Calya" class="header-link-box">
+                    <div class="icon-circle"><i class="ri-whatsapp-fill"></i></div>
+                    <span class="link-text">CHAT</span>
+                </a>
+            </div>
+            <div class="header-col-4">
+                <div class="header-link-box" onclick="toggleModelDropdown()">
+                    <div class="icon-circle" style="background: transparent;"><i class="ri-more-2-fill"></i></div>
+                    <span class="link-text">MODEL</span>
+                </div>
+                <div class="dropdown-model-content" id="dropdown-model-header">
+                    <a href="https://bandungtoyotacenter.com/fortuner" class="dropdown-model-item">Fortuner</a>
+                    <a href="https://bandungtoyotacenter.com/innova-zenix" class="dropdown-model-item">Innova Zenix</a>
+                    <a href="https://bandungtoyotacenter.com/innova-reborn" class="dropdown-model-item">Innova Reborn</a>
+                    <a href="https://bandungtoyotacenter.com/alphard" class="dropdown-model-item">Alphard</a>
+                    <a href="https://bandungtoyotacenter.com/rush" class="dropdown-model-item">Rush</a>
+                    <a href="https://bandungtoyotacenter.com/veloz" class="dropdown-model-item">Veloz</a>
+                    <a href="https://bandungtoyotacenter.com/avanza" class="dropdown-model-item">Avanza</a>
+                    <a href="https://bandungtoyotacenter.com/raize" class="dropdown-model-item">Raize</a>
+                    <a href="https://bandungtoyotacenter.com/calya" class="dropdown-model-item" style="color:var(--toyota-red); font-weight:700;">Calya</a>
+                    <a href="https://bandungtoyotacenter.com/agya" class="dropdown-model-item">Agya</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- BREADCRUMB -->
+        <nav class="breadcrumb">
+            <div class="container">
+                <div class="breadcrumb-inner">
+                    <a href="https://bandungtoyotacenter.com">Home</a>
+                    <span>›</span>
+                    <a href="https://bandungtoyotacenter.com/mobil-baru">Mobil Baru</a>
+                    <span>›</span>
+                    <span style="color: var(--toyota-red); font-weight: 700;">Calya</span>
+                </div>
+            </div>
+        </nav>
+
+        <!-- SECTION 1: HERO PROMO -->
+        <section class="hero-promo" id="promo-section">
+            <img 
+                src="/asset/images/calya/CALYA-2026.webp" 
+                alt="Harga Toyota Calya Bandung Promo" 
+                class="hero-bg-img"
+                fetchpriority="high"
+                decoding="async"
+                width="1100" 
+                height="600"
+            >
+
+            <div class="container">
+                <div class="hero-content">
+                    <div class="urgency-badge">
+                        <i class="ri-alarm-warning-fill"></i> PROMO CALYA - DP RINGAN!
+                    </div>
+                    <h1 class="hero-title">KREDIT TOYOTA CALYA DP 20 JUTAAN – PROMO DEALER RESMI</h1>
+                    <p class="hero-sub">"Mobil Keluarga 7 Penumpang, Hemat & Lega."</p>
+                    
+                    <p style="max-width: 600px; margin: 0 auto 20px; font-size: 0.95rem; line-height: 1.5;">
+                        Dapatkan penawaran terbaik Toyota Calya di Bandung. Kredit DP mulai 20 Jutaan dengan cicilan ringan. Unit Ready Stock, proses cepat bersama sales terpercaya Plaza Toyota.
+                    </p>
+                    
+                    <div class="promo-grid">
+                        <div class="promo-item"><span class="promo-label">Harga Mulai</span><span class="promo-value">Rp 173.2 Juta</span></div>
+                        <div class="promo-item"><span class="promo-label">DP Mulai</span><span class="promo-value">Rp 20 Juta</span></div>
+                        <div class="promo-item"><span class="promo-label">Angsuran</span><span class="promo-value">Rp 3 Jutaan</span></div>
+                        <div class="promo-item"><span class="promo-label">Tenor</span><span class="promo-value">Hingga 5 Tahun</span></div>
+                    </div>
+                    
+                    <div style="display: flex; gap: 10px; justify-content: center; margin-top: 15px;">
+                        <a href="https://wa.me/6282316092405?text=Klaim%20Promo%20Calya" class="btn btn-red" style="width: auto; padding: 12px 30px;">KLAIM PROMO CALYA</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: PROFILE SALES -->
+        <section class="section">
+            <div class="container">
+                <h2 class="section-title">HUBUNGI SALES TERPERCAYA TOYOTA BANDUNG</h2>
+                <div class="sales-card">
+                    <div class="sales-header"><div class="sales-title">KONSULTASI GRATIS & HITUNGAN KREDIT</div></div>
+                    <div class="sales-body">
+                        <img src="https://bandungtoyotacenter.com/wp-content/uploads/2026/02/foto-harri_imresizer.jpg" alt="Harri Gunawan Sales Consultant Toyota" class="sales-avatar" width="90" height="90" loading="lazy">
+                        <div class="sales-name">HARRI GUNAWAN</div>
+                        <div class="sales-role">Senior Sales Executive - Plaza Toyota</div>
+                        
+                        <div class="sales-features">
+                            <div class="feature-check">
+                                <i class="ri-checkbox-circle-fill"></i>
+                                <span>Simulasi Kredit Tepat & Transparan</span>
+                            </div>
+                            <div class="feature-check">
+                                <i class="ri-flashlight-fill"></i>
+                                <span>Proses Kredit Cepat (1 Hari Approve)</span>
+                            </div>
+                            <div class="feature-check">
+                                <i class="ri-home-heart-fill"></i>
+                                <span>Layanan Home Service & Test Drive Gratis</span>
+                            </div>
+                        </div>
+
+                        <div class="sales-contact">
+                            <a href="tel:082316092405" class="btn btn-blue"><i class="ri-phone-fill"></i> Telepon</a>
+                            <a href="https://wa.me/6282316092405?text=Info%20Calya" class="btn btn-green"><i class="ri-whatsapp-line"></i> WhatsApp</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 3: DAFTAR HARGA -->
+        <section class="section bg-gray" id="harga-section">
+            <div class="container">
+                <h2 class="section-title">DAFTAR HARGA TOYOTA CALYA OTR BANDUNG</h2>
+                <p style="text-align: center; font-size: 0.9rem; margin-bottom: 20px;">Harga OTR wilayah Bandung. Hubungi sales untuk hitungan kredit promo.</p>
+
+                <div class="engine-badge" style="background: #e3f2fd; color: #0056b3;">PRICELIST OTR</div>
+                <table class="price-table">
+                    <thead>
+                        <tr>
+                            <th>TYPE</th>
+                            <th style="text-align: center;">TRANS.</th>
+                            <th style="text-align: right;">HARGA</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td colspan="3" style="background:#f0f0f0; font-weight:bold; font-size:0.8rem; color:#333; padding:15px 10px;">CALYA 1.2 E</td></tr>
+                        <tr>
+                            <td class="price-type">1.2 E</td>
+                            <td class="price-val" style="text-align: center; color:#333;">MT</td>
+                            <td class="price-val" style="text-align: right;">173.200.000</td>
+                        </tr>
+                        <tr><td colspan="3" style="background:#f0f0f0; font-weight:bold; font-size:0.8rem; color:#333; padding:15px 10px;">CALYA 1.2 G</td></tr>
+                        <tr>
+                            <td class="price-type">1.2 G</td>
+                            <td class="price-val" style="text-align: center; color:#333;">MT</td>
+                            <td class="price-val" style="text-align: right;">179.900.000</td>
+                        </tr>
+                        <tr>
+                            <td class="price-type">1.2 G</td>
+                            <td class="price-val" style="text-align: center; color:#333;">CVT</td>
+                            <td class="price-val" style="text-align: right;">184.400.000</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p style="font-size: 0.75rem; color: #666; margin-top: 10px;">*Harga OTR Bandung. Harga dapat berubah sewaktu-waktu.</p>
+            </div>
+        </section>
+
+        <!-- SECTION 4: WARNA -->
+        <section class="section">
+            <div class="container">
+                <h2 class="section-title">PILIHAN WARNA</h2>
+                <p style="text-align: center; font-size: 0.9rem; margin-bottom: 15px;">Tersedia warna elegan Calya.</p>
+                <div class="slider-container">
+                    <div class="color-item"><div class="color-swatch" style="background: #ffffff; border-color: #ccc;"></div><div class="color-name">White</div></div>
+                    <div class="color-item"><div class="color-swatch" style="background: #7a7a7a;"></div><div class="color-name">Silver</div></div>
+                    <div class="color-item"><div class="color-swatch" style="background: #1C1C1C; border-color: #000;"></div><div class="color-name">Black</div></div>
+                    <div class="color-item"><div class="color-swatch" style="background: #8B0000;"></div><div class="color-name">Red</div></div>
+                    <div class="color-item"><div class="color-swatch" style="background: #D4AF37;"></div><div class="color-name">Bronze</div></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 5: KEUNGGULAN (SEO CONTENT 1) -->
+        <section class="section bg-gray">
+            <div class="container">
+                <h2 class="section-title">KEUNGGULAN TOYOTA CALYA</h2>
+                
+                <div class="toggle-content" id="feat-toggle">
+                    <p class="seo-text">
+                        <strong>Toyota Calya</strong> hadir sebagai solusi mobil keluarga 7 penumpang paling terjangkau di Indonesia. Dengan desain "Practicality & Elegance", Calya menjawab kebutuhan akan kendaraan yang fungsional namun tetap nyaman digunakan dalam aktivitas sehari-hari. Meski berada di segmen LMPV (Low MPV) entry-level, Toyota tidak mengorbankan kualitas dan keamanan. Calya dilengkapi dengan fitur-fitur standar Toyota yang terkenal handal seperti <strong>Dual SRS Airbag</strong>, <strong>ABS (Anti-lock Braking System)</strong>, dan body frame yang kokoh menggunakan material high tensile steel untuk menyerap benturan dengan efektif.
+                    </p>
+                    <p class="seo-text">
+                        Keunggulan utama Calya terletak pada efisiensi biaya kepemilikan (Cost of Ownership) yang rendah. Konsumsi bahan bakar sangat irit berkat mesin 1.2L yang ringan dan teknologi VVT-i, mampu menempuh jarak hingga <strong>15-18 km/liter</strong> untuk penggunaan dalam kota. Biaya perawatan rutin dan spare parts sangat terjangkau dan mudah didapat di seluruh bengkel resmi Toyota di Indonesia, termasuk Plaza Toyota Bandung. Hal ini menjadikan Calya pilihan cerdas bagi keluarga muda yang membutuhkan mobilitas keluarga besar namun dengan budget yang minimalis.
+                    </p>
+                    <p class="seo-text">
+                        Kabin Calya dirancang untuk memaksimalkan ruang bagi 7 penumpang. Konfigurasi tempat duduk yang fleksibel memungkinkan baris kedua dan ketiga dilipat untuk memperluas ruang kargo, ideal untuk membawa barang belanja atau koper saat bepergian. Tinggi atap yang memadai memberikan ruang kepala yang lega, sehingga penumpang tidak merasa sesak meski mobil berukuran kompak. Dengan ground clearance 180mm, Calya juga tangguh melewati jalan rusak atau banjir ringan, cocok dengan kondisi jalan di berbagai wilayah Bandung dan sekitarnya.
+                    </p>
+                    <p class="seo-text">
+                        Toyota Calya juga menawarkan nilai jual kembali (resale value) yang tinggi dan stabil. Karena popularitasnya yang tinggi sebagai mobil keluarga, unit Calya bekas sangat dicari di pasar second, sehingga Anda tidak perlu khawatir akan penyusutan harga yang tajam. Investasi mobil bukan hanya soat kenyamanan, tapi juga nilai ekonomis jangka panjang, dan Calya memenuhi kedua aspek tersebut dengan sangat baik di kelasnya. Kemudahan parkir dan manuver di jalanan sempit menjadi nilai plus tersendiri dibanding MPV besar seperti Innova.
+                    </p>
+                    <p class="seo-text">
+                        Meskipun harga terjangkau, Toyota menyematkan fitur modern seperti AC double blower untuk mendinginkan seluruh kabin dengan merata, serta audio system yang memadai untuk hiburan keluarga. Desain eksterior yang modern dengan grille chrome dan lampu klar membentuk kesan mewah, tidak murahan. Toyota Calya benar-benar menghadirkan value yang melampaui harganya, menjadikannya "King of Low MPV" yang sulit ditandingi kompetitornya dalam hal total package.
+                    </p>
+                </div>
+                <span class="toggle-btn" onclick="toggleReadMore('feat-toggle', this)">Baca Keunggulan Lengkap <i class="ri-arrow-down-s-line"></i></span>
+
+                <div class="features-grid">
+                    <div class="feature-item"><i class="ri-team-fill feature-icon"></i><div class="feature-title">7 Seater</div><div class="feature-desc">Keluarga besar.</div></div>
+                    <div class="feature-item"><i class="ri-gas-station-fill feature-icon"></i><div class="feature-title">Irit BBM</div><div class="feature-desc">Hemat operasional.</div></div>
+                    <div class="feature-item"><i class="ri-money-dollar-circle-fill feature-icon"></i><div class="feature-title">Affordable</div><div class="feature-desc">DP 20 Jutaan.</div></div>
+                    <div class="feature-item"><i class="ri-shield-check-fill feature-icon"></i><div class="feature-title">Safety</div><div class="feature-desc">Airbag & ABS.</div></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 6: EKSTERIOR (SEO CONTENT 2) -->
+        <section class="section">
+            <div class="container">
+                <h2 class="section-title">DESAIN EKSTERIOR</h2>
+                <p style="text-align: center; font-size: 0.9rem; margin-bottom: 15px;">Tampilan elegan dan proporsional.</p>
+                
+                <div class="toggle-content" id="ext-toggle">
+                    <p class="seo-text">
+                        <strong>Eksterior Toyota Calya</strong> mengusung filosofi desain yang memprioritaskan keindahan fungsional. Grille depan dengan dua lapisan chrome memberikan kesan kokoh dan mewah, membedakannya dari city car biasa. Lampu depan tipe multi-reflector telah didesain ulang untuk memberikan sorotan cahaya yang lebih luas dan terang, meningkatkan keselamatan saat berkendara di malam hari. Bumper depan yang sporty dengan integrated fog lamp housing menambah karakter tangguh pada mobil ini.
+                    </p>
+                    <p class="seo-text">
+                        Dari samping, siluet Calya terlihat proporsional dengan garis belt-line yang naik ke belakang memberikan kesan dinamis. Pintu belakang menggunakan concealed lower frame yang meminimalisir area berkarat dan mempercantik penampilan. Pelek alloy pada tipe G memberikan sentuhan premium, sementara tipe E menggunakan pelek steel dengan full cap yang stylish dan mudah dibersihkan. Dimensi panjang mobil mencapai 4.070mm, memberikan jejak yang cukup untuk baris ketiga yang nyaman namun tetap mudah diparkir.
+                    </p>
+                    <p class="seo-text">
+                        Bagian belakang Calya menampilkan lampu kombinasi yang luas dan berada di posisi tinggi, meningkatkan visibilitas untuk pengendara di belakang. Bukaan bagasi yang lebar memudahkan memasukkan barang besar. Desain keseluruhan Calya bertujuan untuk menciptakan kesan "Compact yet Spacious", di mana tampilan luarnya kecil dan lincah, namapada kenyataannya mampu menampung banyak penumpang dan barang di dalamnya. Warna-warna yang tersedia dipilih untuk mencerminkan karakter keluarga yang hangat dan dinamis.
+                    </p>
+                    <p class="seo-text">
+                        Detail kecil seperti moldning pada samping body dan desain spion电动 adjustment pada tipe G menambah kenyamanan dan estetika. Toyota memastikan bahwa meski harga terjangkau, tampilan Calya tidak murahan dan mampu bersaing secara visual dengan mobil di kelas yang lebih tinggi. Desain ini juga mempertimbangkan aerodinamika untuk mendukung efisiensi bahan bakar, membuat udara mengalir lancar di atas bodi mobil saat melaju di jalan tol.
+                    </p>
+                </div>
+                <span class="toggle-btn" onclick="toggleReadMore('ext-toggle', this)">Baca Selengkapnya Eksterior <i class="ri-arrow-down-s-line"></i></span>
+
+                <div class="slider-container">
+                    <div class="slide-item"><img src="/asset/images/calya/CALYA-2026.webp" alt="Tampilan Depan Calya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/asset/images/calya/calya-samping.webp" alt="Tampilan Samping Calya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/asset/images/calya/calya-belakang.webp" alt="Tampilan Belakang Calya" loading="lazy" decoding="async"></div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- SECTION 7: INTERIOR (SEO CONTENT 3) -->
+        <section class="section bg-gray">
+            <div class="container">
+                <h2 class="section-title">INTERIOR NYAMAN</h2>
+                <p style="text-align: center; font-size: 0.9rem; margin-bottom: 15px;">Kabin lega dan fleksibel.</p>
+                
+                <div class="toggle-content" id="int-toggle">
+                    <p class="seo-text">
+                        Memasuki kabin <strong>Toyota Calya</strong>, Anda akan disambut oleh ruang yang lebih luas dari yang dilihat dari luar. Konsep "Small on the Outside, Big on the Inside" diterapkan dengan sangat baik. Material dashboard menggunakan finish tekstur yang halus dan mudah dibersihkan, memberikan kesan rapi. Peletakan AC double blower pada tipe G memastikan sirkulasi udara dingin mencapai baris ketiga dengan cepat, membuat seluruh keluarga merasa segar meski berkendara jauh di tengah terik matahari.
+                    </p>
+                    <p class="seo-text">
+                        Fitur kenyamanan seperti power window, central lock, dan electric power steering memudahkan pengoperasian sehari-hari. Pada tipe G, hadir pula fitur <strong>Smart Entry & Push Start</strong> yang menambah kesan modern dan kenyamanan, pengemudi tidak perlu repot mengeluarkan kunci dari kantong untuk membuka pintu atau menyalakan mesin. Head unit sudah mendukung konektivitas audio dasar, siap menemani perjalanan Anda dengan musik favorit. Jok berbalut fabric berkualitas didesain untuk memberikan dukungan tubuh yang baik meski duduk lama.
+                    </p>
+                    <p class="seo-text">
+                        Keunggulan utama interior Calya adalah fleksibilitas konfigurasi kursi. Baris kedua bisa dilipat dan bergeser maju mundur (tumble & slide), memberikan akses mudah ke baris ketiga tanpa harus keluar dari mobil. Baris ketiga juga dapat dilipat total (flat folding) ke lantai, menciptakan ruang kargo yang sangat luas untuk membawa barang-barang besar seperti sepeda atau perlengkapan piknik. Lantai kabin datar (flat floor) pada baris pertama dan kedua menambah kenyamanan kaki penumpang.
+                    </p>
+                    <p class="seo-text">
+                        Toyota memperhatikan detail penyimpanan dengan menyediakan banyak slot dan lubang tikus di dashboard dan konsol tengah untuk meletakkan botol minum, handphone, atau barang-barang kecil lainnya. Visibilitas pengemudi sangat baik berkat pilar A yang tipis dan posisi duduk yang tinggi, membuat pengemudi percaya diri mengurai kondisi jalan di depan. Interior Calya membuktikan bahwa mobil murah pun bisa memberikan pengalaman berkendara yang menyenangkan dan tidak mengorbankan kebutuhan fungsional keluarga Indonesia.
+                    </p>
+                </div>
+                <span class="toggle-btn" onclick="toggleReadMore('int-toggle', this)">Baca Selengkapnya Interior <i class="ri-arrow-down-s-line"></i></span>
+
+                <div class="slider-container">
+                    <div class="slide-item"><img src="/asset/images/calya/interior-calya.webp" alt="Dashboard Calya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/asset/images/calya/setir-calya.webp" alt="Setir Calya" loading="lazy" decoding="async"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 8: SPESIFIKASI TEKNIS (SEO CONTENT 4) -->
+        <section class="section">
+            <div class="container">
+                <h2 class="section-title">SPESIFIKASI TEKNIS</h2>
+                <p style="text-align: center; font-size: 0.9rem; margin-bottom: 20px;">Data mesin dan dimensi Calya.</p>
+                
+                <div class="toggle-content" id="spec-toggle">
+                    <p class="seo-text">
+                        Jantung mekanis <strong>Toyota Calya</strong> adalah mesin <strong>3NR-VE</strong> berkapasitas 1.2L (1.197 cc). Mesin 4 silinder segaris, 16 katup, DOHC dengan teknologi <strong>Dual VVT-i</strong> ini dikenal sangat tangguh dan bandel. Tenaga maksimum yang dihasilkan adalah <strong>88 PS</strong> pada 6.000 rpm dengan torsi puncak <strong>108 Nm</strong> pada 4.200 rpm. Tenaga ini sangat cukup untuk membawa 7 penumpang dewasa dalam perjalanan kota maupun luar kota dengan stabil.
+                    </p>
+                    <p class="seo-text">
+                        Calya menawarkan dua pilihan transmisi. <strong>Manual 5-percepatan</strong> memberikan kontrol penuh bagi pengemudi yang menyukai sensasi berkendara manual dan perawatan yang sangat sederhana. Sementara transmisi <strong>CVT (Continuously Variable Transmission)</strong> pada tipe G menawarkan kemudahan berkendara tanpa kopling dengan perpindahan tenaga yang super halus, mengurangi kelelahan pengemudi di macet, serta optimasi putaran mesin yang efisien.
+                    </p>
+                    <p class="seo-text">
+                        Sasis Calya menggunakan suspensi depan <strong>MacPherson Strut</strong> dengan stabilizer, dan suspensi belakang <strong>Torsion Beam</strong> dengan coil spring. Setup ini dipilih untuk memberikan keseimbangan antara kenyamanan dan daya tahan. Rem cakram (disc brake) pada roda depan dan rem tromol (drum brake) pada roda belakang merupakan standar yang umum di kelasnya, dengan penguatan ABS untuk mencegah roda mengunci saat pengereman darurat.
+                    </p>
+                    <p class="seo-text">
+                        Dengan tangki BBM berkapasitas <strong>33 Liter</strong>, Calya mampu menempuh jarak hingga 450-500 km dalam satu kali isi ulang. Radius putar kecil 4.8 meter membuatnya sangat lincah bermanuver di area parkir atau jalan kecil. Ground clearance 180mm memberikan ketenangan saat melintasi jalan bergelombang atau polisi tidur tinggi. Berikut adalah data spesifikasi teknis lengkap Toyota Calya:
+                    </p>
+                </div>
+                <span class="toggle-btn" onclick="toggleReadMore('spec-toggle', this)">Baca Detail Teknis <i class="ri-arrow-down-s-line"></i></span>
+
+                <div style="background: white; padding: 15px; border-radius: 8px; border: 1px solid #eee;">
+                    <table class="spec-table">
+                        <tr><td class="spec-label">Mesin</td><td class="spec-value">3NR-VE, 1.2L, 4 Cylinders, 16 Valve, DOHC, Dual VVT-i</td></tr>
+                        <tr><td class="spec-label">Daya Maksimum</td><td class="spec-value">88 PS / 6.000 rpm</td></tr>
+                        <tr><td class="spec-label">Torsi Maksimum</td><td class="spec-value">108 Nm / 4.200 rpm</td></tr>
+                        <tr><td class="spec-label">Transmisi</td><td class="spec-value">5-Speed Manual / CVT</td></tr>
+                        <tr><td class="spec-label">Dimensi (P x L x T)</td><td class="spec-value">4.070 x 1.655 x 1.600 mm</td></tr>
+                        <tr><td class="spec-label">Jarak Sumbu Roda</td><td class="spec-value">2.525 mm</td></tr>
+                        <tr><td class="spec-label">Ground Clearance</td><td class="spec-value">180 mm</td></tr>
+                        <tr><td class="spec-label">Radius Putar</td><td class="spec-value">4.8 m</td></tr>
+                        <tr><td class="spec-label">Kapasitas Tangki</td><td class="spec-value">33 Liter</td></tr>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 9: VIDEO REVIEW -->
+        <section class="section bg-gray">
+            <div class="container">
+                <h2 class="section-title">VIDEO REVIEW</h2>
+                <p style="text-align: center; font-size: 0.9rem; margin-bottom: 15px;">Saksikan review singkat Toyota Calya.</p>
+                <div class="video-wrapper">
+                    <div class="youtube-lazy" style="background-image: url('/asset/images/calya/CALYA-2026.webp');" onclick="playYouTube(this, 'FE6_MdxvRVE')">
+                        <div class="play-button"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 10: LOKASI DEALER -->
+        <section class="section" id="lokasi-section">
+            <div class="container">
+                <h2 class="section-title">SHOWROOM PLAZA TOYOTA BANDUNG</h2>
+                <div class="location-card">
+                    <img src="https://bandungtoyotacenter.com/wp-content/uploads/2026/02/gambar-plaza-toyota-bandung_669x443.webp" alt="Gedung Showroom Plaza Toyota Bandung" class="location-img" loading="lazy">
+                    <div class="location-body">
+                        <div class="location-hours"><i class="ri-time-line"></i> JAM BUKA: 08.00 - 16.30 WIB</div>
+                        <p style="margin-bottom: 10px;"><strong>Alamat:</strong> Jl. Pelajar Pejuang 45 No.131, Bandung.</p>
+                        <p style="margin-bottom: 15px; font-size: 0.9rem;">Melayani area: Bandung Kota, Cimahi, Lembang, Soreang, Padalarang.</p>
+                        <a href="https://www.google.com/maps/search/?api=1&query=Plaza+Toyota+Bandung" target="_blank" rel="noopener" class="btn btn-blue" style="width: 100%;"><i class="ri-map-pin-line"></i> BUKA GOOGLE MAPS</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 11: TESTIMONI -->
+        <section class="section bg-gray">
+            <div class="container">
+                <h2 class="section-title">TESTIMONI PELANGGAN</h2>
+                <div class="testi-grid">
+                    <div class="testi-card"><div class="testi-header"><div class="testi-avatar">RP</div><div class="testi-info"><h4>Rudi P</h4><span>Ciparay</span></div></div><div class="testi-stars"><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i></div><p class="testi-text">"Calya pas buat keluarga kecil, 7 seater tapi irit banget. Proses di Plaza Toyota mulus."</p></div>
+                    <div class="testi-card"><div class="testi-header"><div class="testi-avatar">TN</div><div class="testi-info"><h4>Tini N</h4><span>Baleendah</span></div></div><div class="testi-stars"><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i></div><p class="testi-text">"Angsuran ringan, DP ringan. Cocok untuk anak kos atau keluarga muda."</p></div>
+                    <div class="testi-card"><div class="testi-header"><div class="testi-avatar">HS</div><div class="testi-info"><h4>Hasan S</h4><span>Antapani</span></div></div><div class="testi-stars"><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i></div><p class="testi-text">"Pak Harri sangat helpful, unit ready sesuai janji. Mantap!"</p></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 12: FAQ -->
+        <section class="section">
+            <div class="container">
+                <h2 class="section-title">PERTANYAAN UMUM (FAQ)</h2>
+                <div class="faq-list">
+                    <div class="faq-item active"><div class="faq-q">Berapa DP Calya di Bandung? <i class="ri-arrow-down-s-line"></i></div><div class="faq-a"><p>DP Toyota Calya di Plaza Toyota Bandung mulai dari 20 Jutaan dengan tenor hingga 5 tahun.</p></div></div>
+                    <div class="faq-item"><div class="faq-q">Apakah Calya cocok untuk keluarga besar? <i class="ri-iconri-team-fill"></i></div><div class="faq-a"><p>Ya, Calya adalah mobil 7 seater yang sangat cocok untuk keluarga dengan 2-3 anak.</p></div></div>
+                    <div class="faq-item"><div class="faq-q">Berapa konsumsi BBM Calya? <i class="ri-arrow-down-s-line"></i></div><div class="faq-a"><p>Konsumsi BBM Calya sangat irit, sekitar 15-17 km/liter untuk penggunaan dalam kota.</p></div></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 13: MOBIL LAINNYA (LENGKAP 9 ITEM) -->
+        <section class="section bg-gray">
+            <div class="container">
+                <h2 class="section-title">MOBIL LAINNYA</h2>
+                <div class="model-promo-grid">
+                    <!-- 1. FORTUNER -->
+                    <article class="model-promo-card">
+                        <img src="/asset/images/fortuner/fortuner-gr-4x4-thumbnail.webp" alt="Promo Fortuner" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">FORTUNER</h3>
+                            <div class="model-promo-price">Rp 653.200.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">100 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran</span><span class="model-promo-value">9 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Promo hingga <span class="dynamic-date">30 November 2024</span></div>
+                            <a href="https://bandungtoyotacenter.com/fortuner" class="btn btn-red" style="margin-top:auto; font-size: 0.85rem;">Info Selengkapnya</a>
+                        </div>
+                    </article>
+                    
+                    <!-- 2. INNOVA ZENIX -->
+                    <article class="model-promo-card">
+                        <img src="/asset/images/innova_zenix/innova-zenix-thumbnail.webp" alt="Promo Innova Zenix" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">INNOVA ZENIX</h3>
+                            <div class="model-promo-price">Rp 439.300.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">45 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran</span><span class="model-promo-value">7 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Promo hingga <span class="dynamic-date">30 November 2024</span></div>
+                            <a href="https://bandungtoyotacenter.com/innova-zenix" class="btn btn-red" style="margin-top:auto; font-size: 0.85rem;">Info Selengkapnya</a>
+                        </div>
+                    </article>
+
+                    <!-- 3. INNOVA REBORN -->
+                    <article class="model-promo-card">
+                        <img src="/asset/images/innova_reborn/innova-reborn.webp" alt="Promo Innova Reborn" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">INNOVA REBORN</h3>
+                            <div class="model-promo-price">Rp 420.300.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">60 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran</span><span class="model-promo-value">7 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Tenor hingga 5 Th</div>
+                            <a href="https://bandungtoyotacenter.com/innova-reborn" class="btn btn-red" style="margin-top:auto; font-size: 0.85rem;">Info Selengkapnya</a>
+                        </div>
+                    </article>
+
+                    <!-- 4. ALPHARD -->
+                    <article class="model-promo-card">
+                        <img src="/asset/images/alphard/alphard-thumbnail.webp" alt="Promo Alphard" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">ALPHARD</h3>
+                            <div class="model-promo-price">Hubungi Sales</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Tipe</span><span class="model-promo-value">Hybrid</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Luxury MPV</div>
+                            <a href="https://wa.me/6282316092405?text=Info%20Alphard" class="btn btn-red" style="margin-top:auto; font-size: 0.85rem;">Tanya Sales</a>
+                        </div>
+                    </article>
+
+                    <!-- 5. AVANZA -->
+                    <article class="model-promo-card">
+                        <img src="/asset/images/avanza/avanza-thumbnail.webp" alt="Promo Avanza" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">AVANZA</h3>
+                            <div class="model-promo-price">Rp 240.800.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">25 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran</span><span class="model-promo-value">4 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Promo hingga <span class="dynamic-date">30 November 2024</span></div>
+                            <a href="https://bandungtoyotacenter.com/avanza" class="btn btn-red" style="margin-top:auto; font-size: 0.85rem;">Info Selengkapnya</a>
+                        </div>
+                    </article>
+
+                    <!-- 6. RUSH -->
+                    <article class="model-promo-card">
+                        <img src="/asset/images/rush/TOYOTA-RUSH.webp" alt="Promo Rush" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">RUSH</h3>
+                            <div class="model-promo-price">Rp 295.800.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">28 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran</span><span class="model-promo-value">5 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Promo hingga <span class="dynamic-date">30 November 2024</span></div>
+                            <a href="https://bandungtoyotacenter.com/rush" class="btn btn-red" style="margin-top:auto; font-size: 0.85rem;">Info Selengkapnya</a>
+                        </div>
+                    </article>
+
+                    <!-- 7. VELOZ -->
+                    <article class="model-promo-card">
+                        <img src="/asset/images/veloz/veloz-thumbnail.webp" alt="Promo Veloz" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">VELOZ</h3>
+                            <div class="model-promo-price">Rp 306.800.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">45 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran</span><span class="model-promo-value">6 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Tenor hingga 5 Th</div>
+                            <a href="https://bandungtoyotacenter.com/veloz" class="btn btn-red" style="margin-top:auto; font-size: 0.85rem;">Info Selengkapnya</a>
+                        </div>
+                    </article>
+
+                    <!-- 8. RAIZE -->
+                    <article class="model-promo-card">
+                        <img src="/asset/images/raize/toyota-raize-thumbnail.webp" alt="Promo Raize" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">RAIZE</h3>
+                            <div class="model-promo-price">Rp 246.600.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">25 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran</span><span class="model-promo-value">4 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Tenor hingga 5 Th</div>
+                            <a href="https://bandungtoyotacenter.com/raize" class="btn btn-red" style="margin-top:auto; font-size: 0.85rem;">Info Selengkapnya</a>
+                        </div>
+                    </article>
+
+                    <!-- 9. AGYA -->
+                    <article class="model-promo-card">
+                        <img src="/asset/images/agya/agya-thumbnail-1.webp" alt="Promo Agya" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">AGYA</h3>
+                            <div class="model-promo-price">Rp 176.200.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">18 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran</span><span class="model-promo-value">3 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Tenor hingga 5 Th</div>
+                            <a href="https://bandungtoyotacenter.com/agya" class="btn btn-red" style="margin-top:auto; font-size: 0.85rem;">Info Selengkapnya</a>
+                        </div>
+                    </article>
+
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer><div class="container"><p>&copy; 2024 Plaza Toyota Bandung. All Rights Reserved.</p></div></footer>
+
+    <!-- BOTTOM NAV -->
+    <nav class="bottom-nav">
+        <div class="nav-grid">
+            <div class="nav-item" style="background: #25D366; color: white;" onclick="toggleSimulasiDropdown(event)">
+                <i class="ri-calculator-line"></i>
+                <span>Simulasi Kredit</span>
+                <div class="simulasi-dropdown" id="simulasi-dropdown">
+                    <div class="simulasi-item" onclick="sendWA('Fortuner')">Fortuner</div>
+                    <div class="simulasi-item" onclick="sendWA('Innova Zenix')">Innova Zenix</div>
+                    <div class="simulasi-item" onclick="sendWA('Innova Reborn')">Innova Reborn</div>
+                    <div class="simulasi-item" onclick="sendWA('Avanza')">Avanza</div>
+                    <div class="simulasi-item" onclick="sendWA('Raize')">Raize</div>
+                    <div class="simulasi-item" onclick="sendWA('Calya')">Calya</div>
+                    <div class="simulasi-item" onclick="sendWA('Agya')">Agya</div>
+                    <div class="simulasi-item" onclick="sendWA('Veloz')">Veloz</div>
+                    <div class="simulasi-item" onclick="sendWA('Rush')">Rush</div>
+                    <div class="simulasi-item" onclick="sendWA('Alphard')">Alphard</div>
+                </div>
+            </div>
+            <div class="nav-item" onclick="scrollToSection('promo-section')"><i class="ri-gift-fill"></i><span>Promo</span></div>
+            <div class="nav-item" onclick="scrollToSection('harga-section')"><i class="ri-price-tag-3-line"></i><span>Harga</span></div>
+            <div class="nav-item" onclick="scrollToSection('lokasi-section')"><i class="ri-map-pin-line"></i><span>Lokasi</span></div>
+        </div>
+    </nav>
+
+    <!-- JAVASCRIPT -->
+    <script>
+        // FAQ Accordion
+        const faqItems = document.querySelectorAll('.faq-item');
+        faqItems.forEach(item => {
+            const question = item.querySelector('.faq-q');
+            question.addEventListener('click', () => {
+                faqItems.forEach(otherItem => { if (otherItem !== item) otherItem.classList.remove('active'); });
+                item.classList.toggle('active');
+            });
+        });
+
+        // Toggle Read More
+        function toggleReadMore(id, btn) {
+            const content = document.getElementById(id);
+            if (content.style.maxHeight) {
+                content.style.maxHeight = null;
+                btn.innerHTML = btn.getAttribute('data-closed') || 'Baca Selengkapnya <i class="ri-arrow-down-s-line"></i>';
+            } else {
+                content.style.maxHeight = content.scrollHeight + "px";
+                if(!btn.getAttribute('data-closed')) btn.setAttribute('data-closed', btn.innerHTML);
+                btn.innerHTML = 'Tutup <i class="ri-arrow-up-s-line"></i>';
+            }
+        }
+
+        // Lite YouTube Embed
+        function playYouTube(div, videoId) {
+            const iframe = document.createElement('iframe');
+            iframe.setAttribute('allowfullscreen', '');
+            iframe.setAttribute('allow', 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture');
+            iframe.setAttribute('frameborder', '0');
+            iframe.setAttribute('loading', 'lazy');
+            iframe.src = 'https://www.youtube.com/embed/' + videoId + '?rel=0&showinfo=0&autoplay=1';
+            div.parentNode.replaceChild(iframe, div);
+        }
+
+        // Header Dropdown Model
+        function toggleModelDropdown() {
+            document.getElementById('dropdown-model-header').classList.toggle('show');
+        }
+        window.onclick = function(event) {
+            if (!event.target.closest('.header-col-4')) {
+                const dd = document.getElementById('dropdown-model-header');
+                if(dd && dd.classList.contains('show')) dd.classList.remove('show');
+            }
+            if (!event.target.closest('.nav-item')) {
+                const sd = document.getElementById('simulasi-dropdown');
+                if(sd && sd.style.display === 'block') sd.style.display = 'none';
+            }
+        }
+
+        // Scroll Function
+        function scrollToSection(id) {
+            document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Simulasi Dropdown Logic
+        function toggleSimulasiDropdown(e) {
+            e.stopPropagation();
+            const dropdown = document.getElementById('simulasi-dropdown');
+            if (dropdown.style.display === 'block') {
+                dropdown.style.display = 'none';
+            } else {
+                dropdown.style.display = 'block';
+            }
+        }
+
+        function sendWA(model) {
+            const phone = '6282316092405';
+            const text = encodeURIComponent(`Saya ingin Simulasi Kredit ${model}`);
+            window.open(`https://wa.me/${phone}?text=${text}`, '_blank');
+        }
+
+        // Dynamic Date
+        const now = new Date();
+        const monthNames = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"];
+        document.querySelectorAll('.dynamic-date').forEach(el => { el.innerText = `30 ${monthNames[now.getMonth()]} ${now.getFullYear()}`; });
+    </script>
+</body>
+</html>
