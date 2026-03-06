@@ -1,0 +1,17 @@
+document.getElementById('simulasi-dropdown');
+            dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+        }
+
+        function sendWA(model) {
+            const phone = '6282316092405';
+            const text = encodeURIComponent(`Saya ingin Simulasi Kredit ${model}`);
+            window.open(`https://wa.me/${phone}?text=${text}`, '_blank');
+        }
+
+        // Dynamic Date
+        const now = new Date();
+        const monthNames = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"];
+        document.querySelectorAll('.dynamic-date').forEach(el => { el.innerText = `30 ${monthNames[now.getMonth()]} ${now.getFullYear()}`; });
+    </script>
+</body>
+</html>
