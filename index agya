@@ -35,7 +35,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Harga Toyota Agya Bandung - Promo Kredit DP 18 Jutaan">
     <meta property="og:description" content="Cek Harga & Promo Toyota Agya Bandung. Kredit DP mulai 18 Jutaan, Cicilan Ringan. Dealer Resmi Plaza Toyota.">
-    <meta property="og:image" content="/asset/images/agya/agya-thumbnail-1.webp">
+    <meta property="og:image" content="/agya/eksterior/ayga-eksterior-1.webp">
     <meta property="og:url" content="https://bandungtoyotacenter.com/agya">
     <meta name="theme-color" content="#EB0A1E">
 
@@ -60,7 +60,7 @@
         {
           "@type": "Car",
           "name": "Toyota Agya",
-          "image": "/asset/images/agya/agya-thumbnail-1.webp",
+          "image": "/agya/eksterior/ayga-eksterior-1.webp",
           "description": "Toyota Agya 1.2 G, city car compact irit dan lincah untuk perkotaan.",
           "brand": { "@type": "Brand", "name": "Toyota" },
           "model": "Agya",
@@ -269,7 +269,6 @@
             transition: max-height 0.5s ease; 
             margin-bottom: 5px; 
         }
-        /* Expand height on desktop default if desired, but let's keep toggle for all */
         
         .seo-text { font-size: 0.95rem; color: #444; line-height: 1.7; margin-bottom: 10px; text-align: justify; }
         .toggle-btn { display: inline-block; color: var(--toyota-red); font-weight: 700; cursor: pointer; font-size: 0.9rem; margin-bottom: 15px; }
@@ -521,7 +520,7 @@
             </div>
         </section>
 
-        <!-- SECTION 6: EKSTERIOR (SEO CONTENT 2) -->
+        <!-- SECTION 6: EKSTERIOR (UPDATED IMAGES) -->
         <section class="section">
             <div class="container">
                 <h2 class="section-title">DESAIN EKSTERIOR</h2>
@@ -537,15 +536,17 @@
                 </div>
                 <span class="toggle-btn" onclick="toggleReadMore('ext-toggle', this)">Baca Selengkapnya Eksterior <i class="ri-arrow-down-s-line"></i></span>
 
+                <!-- UPDATED IMAGE PATHS -->
                 <div class="slider-container">
-                    <div class="slide-item"><img src="/asset/images/agya/agya-thumbnail-1.webp" alt="Tampilan Depan Agya" loading="lazy" decoding="async"></div>
-                    <div class="slide-item"><img src="/asset/images/agya/agya-samping.webp" alt="Tampilan Samping Agya" loading="lazy" decoding="async"></div>
-                    <div class="slide-item"><img src="/asset/images/agya/agya-belakang.webp" alt="Tampilan Belakang Agya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/agya/eksterior/ayga-eksterior-1.webp" alt="Tampilan Depan Agya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/agya/eksterior/gril-depan-agya-1.webp" alt="Gril Depan Agya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/agya/eksterior/velg-agya-1.webp" alt="Velg Agya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/agya/eksterior/kunci-remot-agya.webp" alt="Kunci Remote Agya" loading="lazy" decoding="async"></div>
                 </div>
             </div>
         </section>
         
-        <!-- SECTION 7: INTERIOR (SEO CONTENT 3) -->
+        <!-- SECTION 7: INTERIOR (UPDATED IMAGES) -->
         <section class="section bg-gray">
             <div class="container">
                 <h2 class="section-title">INTERIOR NYAMAN</h2>
@@ -561,9 +562,12 @@
                 </div>
                 <span class="toggle-btn" onclick="toggleReadMore('int-toggle', this)">Baca Selengkapnya Interior <i class="ri-arrow-down-s-line"></i></span>
 
+                <!-- UPDATED IMAGE PATHS -->
                 <div class="slider-container">
-                    <div class="slide-item"><img src="/asset/images/agya/interior-agya.webp" alt="Dashboard Agya" loading="lazy" decoding="async"></div>
-                    <div class="slide-item"><img src="/asset/images/agya/setir-agya.webp" alt="Setir Agya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/agya/interior/dashboard-agya.webp" alt="Dashboard Agya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/agya/interior/setir-agya.webp" alt="Setir Agya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/agya/interior/kursi-agya.webp" alt="Jok Kursi Agya" loading="lazy" decoding="async"></div>
+                    <div class="slide-item"><img src="/agya/interior/bagasi-agya-819x1024.webp" alt="Bagasi Agya" loading="lazy" decoding="async"></div>
                 </div>
             </div>
         </section>
@@ -604,7 +608,7 @@
                 <h2 class="section-title">VIDEO REVIEW</h2>
                 <p style="text-align: center; font-size: 0.9rem; margin-bottom: 15px;">Saksikan review singkat Toyota Agya.</p>
                 <div class="video-wrapper">
-                    <div class="youtube-lazy" style="background-image: url('/asset/images/agya/agya-thumbnail-1.webp');" onclick="playYouTube(this, 'FE6_MdxvRVE')">
+                    <div class="youtube-lazy" style="background-image: url('/agya/eksterior/ayga-eksterior-1.webp');" onclick="playYouTube(this, 'FE6_MdxvRVE')">
                         <div class="play-button"></div>
                     </div>
                 </div>
