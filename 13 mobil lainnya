@@ -1,0 +1,168 @@
+<!-- SECTION 14: MOBIL LAINNYA -->
+        <section class="section bg-gray">
+            <div class="container">
+                <h2 class="section-title">MOBIL LAINNYA</h2>
+                <div class="model-promo-grid">
+                    <!-- 1. FORTUNER -->
+                    <article class="model-promo-card">
+                        <img src="https://bandungtoyotacenter.com/wp-content/uploads/2026/02/fortuner-gr-4x4-thumbnail.webp" alt="Promo Fortuner" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">FORTUNER</h3>
+                            <div class="model-promo-price">Rp 653.200.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">100 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran Mulai</span><span class="model-promo-value">9 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Promo hingga <span class="dynamic-date">30 November 2024</span></div>
+                            <div class="model-promo-actions">
+                                <a href="https://bandungtoyotacenter.com/fortuner" class="btn btn-outline">Selengkapnya</a>
+                                <a href="javascript:void(0);" onclick="sendWA('Fortuner')" class="btn btn-red">Klaim Promo</a>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <!-- 2. INNOVA ZENIX -->
+                    <article class="model-promo-card">
+                        <img src="https://bandungtoyotacenter.com/wp-content/uploads/2026/02/innova-zenix-thumbnail.webp" alt="Promo Innova Zenix" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">INNOVA ZENIX</h3>
+                            <div class="model-promo-price">Rp 439.300.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">45 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran Mulai</span><span class="model-promo-value">7 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Tenor hingga 5 Th</div>
+                            <div class="model-promo-actions">
+                                <a href="https://bandungtoyotacenter.com/innova-reborn" class="btn btn-outline">Selengkapnya</a>
+                                <a href="javascript:void(0);" onclick="sendWA('Innova Reborn')" class="btn btn-red">Klaim Promo</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- 3. ALPHARD -->
+                    <article class="model-promo-card">
+                        <img src="https://bandungtoyotacenter.com/asset/images/alphard/alphard-thumbnail.webp" alt="Promo Alphard" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">ALPHARD</h3>
+                            <div class="model-promo-price">Hubungi Sales</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Tipe</span><span class="model-promo-value">Hybrid</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Luxury MPV</div>
+                            <div class="model-promo-actions">
+                                <a href="https://bandungtoyotacenter.com/alphard" class="btn btn-outline">Selengkapnya</a>
+                                <a href="javascript:void(0);" onclick="sendWA('Alphard')" class="btn btn-red">Klaim Promo</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- 4. AVANZA -->
+                    <article class="model-promo-card">
+                        <img src="https://bandungtoyotacenter.com/wp-content/uploads/2026/02/avanza-thumbnail.webp" alt="Promo Avanza" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">AVANZA</h3>
+                            <div class="model-promo-price">Rp 240.800.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">25 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran Mulai</span><span class="model-promo-value">4 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Promo hingga <span class="dynamic-date">30 November 2024</span></div>
+                            <div class="model-promo-actions">
+                                <a href="https://bandungtoyotacenter.com/avanza" class="btn btn-outline">Selengkapnya</a>
+                                <a href="javascript:void(0);" onclick="sendWA('Avanza')" class="btn btn-red">Klaim Promo</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- 5. RUSH -->
+                    <article class="model-promo-card">
+                        <img src="https://bandungtoyotacenter.com/asset/images/rush/TOYOTA-RUSH.webp" alt="Promo Rush" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">RUSH</h3>
+                            <div class="model-promo-price">Rp 295.800.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">28 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran Mulai</span><span class="model-promo-value">5 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Promo hingga <span class="dynamic-date">30 November 2024</span></div>
+                            <div class="model-promo-actions">
+                                <a href="https://bandungtoyotacenter.com/rush" class="btn btn-outline">Selengkapnya</a>
+                                <a href="javascript:void(0);" onclick="sendWA('Rush')" class="btn btn-red">Klaim Promo</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- 6. VELOZ -->
+                    <article class="model-promo-card">
+                        <img src="https://bandungtoyotacenter.com/wp-content/uploads/2026/02/veloz-thumbnail.webp" alt="Promo Veloz" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">VELOZ</h3>
+                            <div class="model-promo-price">Rp 306.800.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">45 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran Mulai</span><span class="model-promo-value">6 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Tenor hingga 5 Th</div>
+                            <div class="model-promo-actions">
+                                <a href="https://bandungtoyotacenter.com/veloz" class="btn btn-outline">Selengkapnya</a>
+                                <a href="javascript:void(0);" onclick="sendWA('Veloz')" class="btn btn-red">Klaim Promo</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- 7. RAIZE -->
+                    <article class="model-promo-card">
+                        <img src="https://bandungtoyotacenter.com/wp-content/uploads/2026/02/RAIZE.webp" alt="Promo Raize" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">RAIZE</h3>
+                            <div class="model-promo-price">Rp 246.600.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">25 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran Mulai</span><span class="model-promo-value">4 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Tenor hingga 5 Th</div>
+                            <div class="model-promo-actions">
+                                <a href="https://bandungtoyotacenter.com/raize" class="btn btn-outline">Selengkapnya</a>
+                                <a href="javascript:void(0);" onclick="sendWA('Raize')" class="btn btn-red">Klaim Promo</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- 8. CALYA -->
+                    <article class="model-promo-card">
+                        <img src="https://bandungtoyotacenter.com/wp-content/uploads/2026/02/CALYA-2026.webp" alt="Promo Calya" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">CALYA</h3>
+                            <div class="model-promo-price">Rp 173.200.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">20 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran</span><span class="model-promo-value">3 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Tenor hingga 5 Th</div>
+                            <div class="model-promo-actions">
+                                <a href="https://bandungtoyotacenter.com/calya" class="btn btn-outline">Selengkapnya</a>
+                                <a href="javascript:void(0);" onclick="sendWA('Calya')" class="btn btn-red">Klaim Promo</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- 9. AGYA -->
+                    <article class="model-promo-card">
+                        <img src="https://bandungtoyotacenter.com/wp-content/uploads/2026/02/agya-thumbnail.webp" alt="Promo Agya" class="model-promo-img" loading="lazy">
+                        <div class="model-promo-body">
+                            <h3 class="model-promo-title">AGYA</h3>
+                            <div class="model-promo-price">Rp 176.200.000</div>
+                            <ul class="model-promo-details">
+                                <li class="model-promo-detail-item"><span class="model-promo-label">DP Mulai</span><span class="model-promo-value">18 Juta</span></li>
+                                <li class="model-promo-detail-item"><span class="model-promo-label">Angsuran Mulai</span><span class="model-promo-value">3 Jutaan</span></li>
+                            </ul>
+                            <div style="font-size: 0.75rem; color: #555; margin-bottom: 10px;">Tenor hingga 5 Th</div>
+                            <div class="model-promo-actions">
+                                <a href="https://bandungtoyotacenter.com/agya" class="btn btn-outline">Selengkapnya</a>
+                                <a href="javascript:void(0);" onclick="sendWA('Agya')" class="btn btn-red">Klaim Promo</a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
